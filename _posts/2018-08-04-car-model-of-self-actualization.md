@@ -4,6 +4,7 @@ title: The Car Model of Self-Actualization
 category: news
 tags:
   - news
+  - life
 intro: "The Car Model of Self-Actualization"
 ---
 
