@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Car Model of Self-Actualization
-category: life
+category: news
 tags:
-  - life
+  - news
 intro: "The Car Model of Self-Actualization"
 ---
 
